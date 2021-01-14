@@ -1,5 +1,5 @@
 {
-  "name": "pinset",
+  "name": "tls-pinset",
   "version": "1.0.0",
   "description": "Generate pinset for remote server",
   "main": "index.js",

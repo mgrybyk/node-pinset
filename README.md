@@ -4,11 +4,11 @@
 
 ## Installation
 
-`npm install pinset -g`
+`npm install tls-pinset -g`
 
 ## Usage
 
-`pinset 1.1.1.1`
+`tls-pinset 1.1.1.1`
 
 ```
 generating pinset for 1.1.1.1:443 with openssl
@@ -24,7 +24,7 @@ od9obscoXQND56/DikypZrJkXGvbQV5Y61QGfcNitHo=
 ## Using programmatically
 
 ```js
-const { generatePinset } = require('pinset')
+const { generatePinset } = require('tls-pinset')
 
 generatePinset('1.1.1.1', 853).then(console.log)
 // od9obscoXQND56/DikypZrJkXGvbQV5Y61QGfcNitHo=
