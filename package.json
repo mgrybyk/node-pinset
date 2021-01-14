@@ -1,9 +1,12 @@
 {
   "name": "tls-pinset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate pinset for remote server",
   "main": "index.js",
   "scripts": {},
+  "bin": {
+    "tls-pinset": "./bin/tls-pinset.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mgrybyk/node-pinset.git"
