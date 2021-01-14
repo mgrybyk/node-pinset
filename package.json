@@ -1,0 +1,20 @@
+{
+  "name": "pinset",
+  "version": "1.0.0",
+  "description": "Generate pinset for remote server",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgrybyk/node-pinset.git"
+  },
+  "keywords": [
+    "pinset"
+  ],
+  "author": "Mykola Grybyk <mykola.grybyk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgrybyk/node-pinset/issues"
+  },
+  "homepage": "https://github.com/mgrybyk/node-pinset#readme"
+}
